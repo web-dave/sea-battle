@@ -1,5 +1,3 @@
-import { Image } from './image';
-
 export interface IShip {
   fields: IField[];
   position: number;
